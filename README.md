@@ -1,0 +1,2 @@
+# VRCOSC-joyconXY
+joyconのセンサーで無意味にAvatar parameterを変更するためだけのスクリプト
