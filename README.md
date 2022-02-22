@@ -1,5 +1,5 @@
 # VRCOSC-joyconXY
-joyconのセンサーで無意味にVRChat内Avatar parameter -- Two Axis Puppetを変更するためだけのスクリプト（デフォルトではTailx Tailyを変更）
+3点トラッキング・デスクトップモード向けにjoyconのセンサーで無意味にVRChat内Avatar parameter -- Two Axis Puppetを変更するためだけのスクリプト（デフォルトではTailx Tailyを変更）
 
 ## Requirements
 hidapi python-osc
